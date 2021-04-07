@@ -26,6 +26,7 @@ items:
  - pupilfirst/pupilfirst
  - appsmithorg/appsmith
  - anuraghazra/github-readme-stats
+ - L04DB4L4NC3R/spotify-downloader
 display_name: Made in India
 created_by: mvkaran
 image: made-in-india.png
